@@ -16,34 +16,34 @@
     "default": {
         "asgiref": {
             "hashes": [
-                "sha256:1d2880b792ae8757289136f1db2b7b99100ce959b2aa57fd69dab783d05afac4",
-                "sha256:4a29362a6acebe09bf1d6640db38c1dc3d9217c68e6f9f6204d72667fc19a424"
+                "sha256:89b2ef2247e3b562a16eef663bc0e2e703ec6468e2fa8a5cd61cd449786d4f6e",
+                "sha256:9e0ce3aa93a819ba5b45120216b23878cf6e8525eb3848653452b4192b92afed"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.5.2"
+            "version": "==3.7.2"
         },
         "django": {
             "hashes": [
-                "sha256:115baf5049d5cf4163e43492cdc7139c306ed6d451e7d3571fe9612903903713",
-                "sha256:f71934b1a822f14a86c9ac9634053689279cd04ae69cb6ade4a59471b886582b"
+                "sha256:a477ab326ae7d8807dc25c186b951ab8c7648a3a23f9497763c37307a2b5ef87",
+                "sha256:dec2a116787b8e14962014bf78e120bba454135108e1af9e9b91ade7b2964c40"
             ],
             "index": "pypi",
-            "version": "==3.2.15"
+            "version": "==3.2.20"
         },
         "pytz": {
             "hashes": [
-                "sha256:bc824559e43e8ab983426a49525079d186b25372ff63aa3430ccd527d95edc3a",
-                "sha256:d9b245e63af49c4e51afdec5402f56b99c0cb483a84a12bb8b7db980386baade"
+                "sha256:1d8ce29db189191fb55338ee6d0387d82ab59f3d00eac103412d64e0ebd0c588",
+                "sha256:a151b3abb88eda1d4e34a9814df37de2a80e301e68ba0fd856fb9b46bfbbbffb"
             ],
-            "version": "==2022.2"
+            "version": "==2023.3"
         },
         "sqlparse": {
             "hashes": [
-                "sha256:0c00730c74263a94e5a9919ade150dfc3b19c574389985446148402998287dae",
-                "sha256:48719e356bb8b42991bdbb1e8b83223757b93789c00910a616a071910ca4a64d"
+                "sha256:5430a4fe2ac7d0f93e66f1efc6e1338a41884b7ddf2a350cedd20ccc4d9d28f3",
+                "sha256:d446183e84b8349fa3061f0fe7f06ca94ba65b426946ffebe6e3e8295332420c"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==0.4.2"
+            "version": "==0.4.4"
         }
     },
     "develop": {}
